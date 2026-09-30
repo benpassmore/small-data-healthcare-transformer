@@ -10,6 +10,7 @@ The generated populations were evaluated across three areas:
 - Privacy and memorization risk
 - Population representation
 - Structural fidelity and diversity
+  
 The transformer is small and relatively simple. Just a single transformer with 2-heads and MLP layer. The goal was not to build the best possible synthetic-data generator, but to examine how the amount of available training data affects the generated population while keeping the model architecture fixed.
 
 ## Repository Structure
