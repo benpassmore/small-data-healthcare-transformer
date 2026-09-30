@@ -4,7 +4,7 @@ The same general approach was applied to two healthcare datasets:
 
 - Synthea
 - MIMIC-IV
-- 
+  
 For each dataset, models were trained using populations of 100, 1,000, and 10,000 patients. Each trained model was then used to generate 5,000 synthetic patient records.
 The generated populations were evaluated across three areas:
 - Privacy and memorization risk
